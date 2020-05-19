@@ -1,0 +1,9 @@
+
+
+buy_buniess:
+-  ['premiumPrice',500,100,100,4,{'succeed': True,'errorMsg': ''}]
+-  ['premiumPrice',600,200,200,5,{'succeed': True,'errorMsg': ''}]
+-  ['premiumPrice',800,300,93,23,{'succeed': True,'errorMsg': ''}]
+
+
+
